@@ -1,0 +1,7 @@
+
+number_of_tasks_completed= 12
+number_of_hours_spent= "1,5"
+course_name="Python"
+time_per_task="0,125"
+time_per_task2="(7,5 min)"
+print(number_of_hours_spent,'hours were spent on',number_of_tasks_completed,'tasks in the',course_name,'course','each task took',time_per_task,'hour',time_per_task2)
